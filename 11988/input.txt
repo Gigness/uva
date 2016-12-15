@@ -1,0 +1,4 @@
+start[swag]end abc[yolo]
+abcdef[######
+[abcd]yolo
+]abcd[!sweg!]
